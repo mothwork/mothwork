@@ -1,11 +1,9 @@
 
 ### Hello! I'm Brett.
-I'm a software engineer and student.
-I build dynamic web applications in JavaScript using React / Redux and Express. 
-I'm a thoughtful and motivated problem solver— primarily interested in working on projects that better the world.
-An artist at heart, I know design and planning is just as important as the end experience.
+* I'm a software engineer and student.
+* I value beauty, simplicity, and utility.
 
-I believe in beauty, simplicity, and utility.
+### Technologies and Tools
 
 <!--
 **mothwork/mothwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
