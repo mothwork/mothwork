@@ -1,5 +1,5 @@
 
-## Hello! I'm Brett.
+# Hello! I'm Brett 
 
 * ⌨️ I'm a software engineer and student.
 * 🔮 I'm currently learning and working with: React Hooks, Redux State, Python
