@@ -2,6 +2,7 @@
 ## Hello! I'm Brett.
 
 * ⌨️ I'm a software engineer and student.
+* 🔮 I'm currently learning and working with: React Hooks, Redux State, Python
 * ✨ I value beauty, simplicity, and utility.
 * 📮 I can be reached at brett.hageft@gmail.com
 
