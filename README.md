@@ -1,7 +1,8 @@
 
 ### Hello! I'm Brett.
-* I'm a software engineer and student.
-* I value beauty, simplicity, and utility.
+***
+* ⌨️ I'm a software engineer and student.
+* ✨ I value beauty, simplicity, and utility.
 
 ### Technologies and Tools
 
