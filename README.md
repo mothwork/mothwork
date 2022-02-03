@@ -15,6 +15,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?logo=sqlalchemy)
 ![PostgreSQL](https://img.shields.io/badge/-PostgeSQL-black?logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?logo=sequelize)
 
 
 <!--
