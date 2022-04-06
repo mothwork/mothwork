@@ -9,6 +9,7 @@
 
 ### Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![React](https://img.shields.io/badge/-ReactJs-black?logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux)
