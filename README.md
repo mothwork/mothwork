@@ -2,10 +2,9 @@
 # Hello! I'm Brett 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?logo=linkedIn)](https://linkedin.com/in/mothwork)
 [![AngelList](https://img.shields.io/badge/-AngelList-black?logo=angellist)](https://angel.co/u/mothwork)
-* ⌨️ I'm a software engineer based in Tucson, AZ.
-* 🔮 I'm currently learning and working with: TypeScript, React Hooks, Redux State, and Python.
-* ✨ I value beauty, simplicity, and utility.
-* 📮 I can be reached at brett.hageft@gmail.com
+
+✨ I value beauty, simplicity, and utility.
+
 
 ### Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
